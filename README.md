@@ -7,3 +7,4 @@ Slides and content for a talk given at posit::conf 2023.
 
 ### Resources:
 - [Posit blog post](https://posit.co/blog/reporting-on-nyc-taxi-data-with-rstudio-and-databricks/)
+- [Sign up for updates](https://forms.gle/2DToNnSfPBB9GssDA)
